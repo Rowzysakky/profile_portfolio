@@ -1,4 +1,5 @@
 # profile_portfolio
+This portfolio website design will be completely responsive for all screen devices like mobile phones. We will this complete website design step by step using HTML CSS and JavaScript.
 ## Table of Contents
 - [Home](#home)
 - [About](#about)
